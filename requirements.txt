@@ -1,0 +1,6 @@
+duckdb
+pandas
+jupyterlab-rise
+RISE
+datacompy
+uberjob
